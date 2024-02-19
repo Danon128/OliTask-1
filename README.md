@@ -10,7 +10,7 @@
 8. OPTIONAL: Run the tests: `ctest`
 9. Put file with input data `input.txt` into Build directory (example of input.txt provided below)
 10. Run the code: `DLXSolver_run.exe`
-11. Results will be shawn in CLI (Command line interface)
+11. Results will be shown in CLI (Command line interface)
 
 ### Example `input.txt`
 9<br>
